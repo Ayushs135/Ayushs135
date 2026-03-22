@@ -76,8 +76,9 @@
 
 ## 📫 Connect With Me
 
-* LinkedIn: ((https://linkedin.com/in/ayushshukla135))
-* Email: (optional)
+* LinkedIn: (https://linkedin.com/in/ayushshukla135)
+* Email: ayush.shukla2023a@vitstudent.ac.in
+* Portfolio: [View my site](https://ayushs135.github.io/Portfolio-Website)
 
 ---
 
